@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gnasher26
+- 👋 Hi, I’m Hemant Nishad.
 - 👀 I’m interested in all things Data Science.
 - 🌱 I’ve completed my PG in Statistics, I"m currently learning JAVA and Linux
 - 💞️ I’m looking to collaborate on ML and AI projects
